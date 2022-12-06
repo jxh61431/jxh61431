@@ -6,7 +6,9 @@
   오픈소스소프트웨어 20222593 이주현 </h3>
 
 <h4>
-  <br>
+  <a href="https://github.com/2022-oss" target="_blank"><img src="https://img.shields.io/badge/QB 4조 GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/>
+    <br>
+    <br>
   ✨ 👽 ✨
 
 </h4> 
