@@ -10,9 +10,10 @@
     <br>
     <br>
   ✨ 👽 ✨
- <>
+ <br>
     
-   <a href="[xxx](https://github.com/2022-oss/OSS-lect/blob/main/QB%20%5B%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%5D%20%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%A0%95%EB%A6%AC(10.19)/QB-22-20222593-%EC%9D%B4%EC%A3%BC%ED%98%84-markdown.md)">마크다운 정리</a>
+     
+   <a href="https://github.com/2022-oss/OSS-lect/blob/main/QB%20%5B%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%5D%20%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%A0%95%EB%A6%AC(10.19)/QB-22-20222593-%EC%9D%B4%EC%A3%BC%ED%98%84-markdown.md">마크다운 정리</a>
 </h4> 
   <br>
   <br>
